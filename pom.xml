@@ -5,7 +5,7 @@
   <artifactId>training</artifactId>
   <packaging>war</packaging>
   <version>1.3</version>
-  <name>TrainingWale Maven Webapp</name>
+  <name>TrainingWale Maven WebApp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
